@@ -33,9 +33,13 @@
   - Empty Hobby
   - Without Uploading Image
   - Without Selecting City and State
+
+## Detailed Test Cases
   
-  -For detailed test cases, view this spreadsheet: 
-  -For Bug report, view this spreadsheet: 
+  - For detailed test cases, view this spreadsheet: 
+
+## Detailed Bug Report
+  - For Bug report, view this spreadsheet: 
 
 ## Technology Used
   - Tool: Selenium
