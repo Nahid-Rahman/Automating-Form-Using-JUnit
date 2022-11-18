@@ -36,7 +36,7 @@
 
 ## Detailed Test Cases
   
-  - For detailed test cases, view this spreadsheet: 
+  - For detailed test cases, view this spreadsheet: https://docs.google.com/spreadsheets/d/1BmX-zytMPCVvY-cbWCUoL9HM2lS5aOaQ/edit?usp=share_link&ouid=105382160112398553095&rtpof=true&sd=true
 
 ## Detailed Bug Report
   - For Bug report, view this spreadsheet: 
