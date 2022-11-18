@@ -39,7 +39,7 @@
   - For detailed test cases, view this spreadsheet: https://docs.google.com/spreadsheets/d/1BmX-zytMPCVvY-cbWCUoL9HM2lS5aOaQ/edit?usp=share_link&ouid=105382160112398553095&rtpof=true&sd=true
 
 ## Detailed Bug Report
-  - For Bug report, view this spreadsheet: 
+  - For Bug report, view this spreadsheet: https://docs.google.com/spreadsheets/d/1-Qw_BrUp01oYw6VWQgs4N6498snTOVkf/edit?usp=share_link&ouid=105382160112398553095&rtpof=true&sd=true
 
 ## Technology Used
   - Tool: Selenium
