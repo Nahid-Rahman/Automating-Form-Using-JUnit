@@ -34,8 +34,8 @@
   - Without Uploading Image
   - Without Selecting City and State
   
--For detailed test cases, view this spreadsheet: 
--For Bug report, view this spreadsheet: 
+  -For detailed test cases, view this spreadsheet: 
+  -For Bug report, view this spreadsheet: 
 
 ## Technology Used
   - Tool: Selenium
